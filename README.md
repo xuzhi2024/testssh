@@ -1,5 +1,5 @@
 this is a test
-for git diff andddd
+for git diff and
 git apply
 hello
 bye
