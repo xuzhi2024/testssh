@@ -1,6 +1,6 @@
 this is a test
 
-for git diff and
+for git diff
 
 git apply
 
